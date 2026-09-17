@@ -86,7 +86,7 @@ fi
 
 echo "== Nightly backups (02:00)"
 install -m 750 -o $APP_USER -g $APP_USER "$(dirname "$0")/backup.sh" $BASE/backup.sh
-( crontab -u $APP_USER -l 2>/dev/null | grep -v backup.sh; echo "0 2 * * * $BASE/backup.sh >> $BASE/backups/backup.log 2>&1" ) | crontab -u $APP_USER -
+{ crontab -u $APP_USER -l 2>/dev/null | grep -v backup.sh || true; echo "0 2 * * * $BASE/backup.sh >> $BASE/backups/backup.log 2>&1"; } | crontab -u $APP_USER -
 
 echo
 echo "Done. Next:"
