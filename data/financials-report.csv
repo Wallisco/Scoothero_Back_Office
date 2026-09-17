@@ -1,0 +1,8 @@
+Site,Stage,Lease R/month,Tenure,Install R,Install estimated,Amortised R/month,Electricity R/month,Hardware R/month,Cost of site R/month,Income R/month,Margin %,Break-even kWh/month (excl hardware),Break-even bikes,Most lease at target margin R,Flags
+"Pineslopes (The Bed Centre)",proposal_sent,2500,24,11200,yes,2966.67,6049.04,1824,10839.7,15122.59,28.32,429.95,4.22,2246.11,install_cost_estimated electricity_rate_default below_target_margin
+"21 Oudekraal Noordwyk close, Midrand + 97 Republic Road Randburg",lease_preparing,2000,12,20000,yes,3666.67,6049.04,1824,11539.7,15122.59,23.69,531.4,4.84,1046.11,install_cost_estimated electricity_rate_default below_target_margin
+"Lameka Bike Garage",lease_preparing,3500,24,11200,yes,3966.67,6049.04,1824,11839.7,15122.59,21.71,574.88,5.11,2246.11,install_cost_estimated electricity_rate_default below_target_margin
+"Midas Midrand",lease_preparing,1500,24,11200,yes,1966.67,6049.04,1824,9839.7,15122.59,34.93,285.02,3.34,2246.11,install_cost_estimated electricity_rate_default
+"Morning Glen",lease_preparing,2000,12,11200,yes,2933.33,6049.04,1824,10806.37,15122.59,28.54,425.12,4.19,1779.44,install_cost_estimated electricity_rate_default below_target_margin
+"The Boulders Shopping Centre",lease_preparing,1500,24,11200,yes,1966.67,6049.04,1824,9839.7,15122.59,34.93,285.02,3.34,2246.11,install_cost_estimated electricity_rate_default
+"Waterstone Durbanville",complete,1000,12,11200,yes,1933.33,6049.04,1824,9806.37,15122.59,35.15,280.19,3.31,1779.44,install_cost_estimated electricity_rate_default

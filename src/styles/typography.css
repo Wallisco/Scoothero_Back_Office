@@ -1,0 +1,62 @@
+/* ScootHero Back Office — typography tokens (data-dense scale)
+ * Load once in the layout <head>:
+ *   <link rel="preconnect" href="https://fonts.googleapis.com">
+ *   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ *   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400..700&display=swap" rel="stylesheet">
+ * If the font fails to load, the fallback stack gives Segoe UI on Windows, San Francisco on Apple, Roboto on Android.
+ */
+
+:root {
+  --font-sans: "Inter", "Segoe UI", system-ui, -apple-system, Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  --fs-meta: 0.75rem;   --lh-meta: 1rem;      /* 12 / 16  captions, timestamps, field labels, table headers */
+  --fs-body: 0.875rem;  --lh-body: 1.25rem;   /* 14 / 20  body, data grids, form fields, buttons */
+  --fs-card: 1rem;      --lh-card: 1.5rem;    /* 16 / 24  card and widget titles, navigation */
+  --fs-h2:   1.125rem;  --lh-h2:   1.625rem;  /* 18 / 26  section headings; 20 / 28 from 1024px */
+  --fs-h1:   1.5rem;    --lh-h1:   2rem;      /* 24 / 32  page title (site or landlord name) */
+
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-semibold: 600;
+  --fw-bold: 700;
+
+  --fs-input: var(--fs-body);
+  --tap: 36px;
+}
+
+@media (min-width: 1024px) {
+  :root { --fs-h2: 1.25rem; --lh-h2: 1.75rem; }
+}
+
+/* Phones and tablets. iOS Safari zooms the page when a focused input is under 16px,
+   so inputs step up to 16px and tap targets to 44px on touch screens only. */
+@media (pointer: coarse) {
+  :root { --fs-input: 1rem; --tap: 44px; }
+}
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  font-family: var(--font-sans);
+  font-size: var(--fs-body);
+  line-height: var(--lh-body);
+  font-weight: var(--fw-regular);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1, .t-h1 { font-size: var(--fs-h1); line-height: var(--lh-h1); font-weight: var(--fw-bold); letter-spacing: -0.01em; margin: 0; }
+h2, .t-h2 { font-size: var(--fs-h2); line-height: var(--lh-h2); font-weight: var(--fw-semibold); margin: 0; }
+h3, .t-card { font-size: var(--fs-card); line-height: var(--lh-card); font-weight: var(--fw-semibold); margin: 0; }
+.t-body { font-size: var(--fs-body); line-height: var(--lh-body); }
+.t-meta, small, label, th { font-size: var(--fs-meta); line-height: var(--lh-meta); }
+
+nav a { font-size: var(--fs-card); line-height: var(--lh-card); min-height: var(--tap); }
+
+input, select, textarea, button { font: inherit; }
+input, select, textarea { font-size: var(--fs-input); line-height: var(--lh-body); min-height: var(--tap); }
+button, .btn { font-size: var(--fs-body); line-height: var(--lh-body); font-weight: var(--fw-semibold); min-height: var(--tap); }
+
+/* Numbers line up in columns: amounts, dates, counts, coordinates. */
+table, .data-grid, .num, input[type="number"] { font-variant-numeric: tabular-nums; }
+td, th { padding-block: 0.5rem; }  /* 14/20 text + 8px each side = 36px rows */

@@ -1,0 +1,32 @@
+{
+  "name": "scoothero-property",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "import:dry": "node scripts/import-property-sheet.js data/property-sheet.csv",
+    "import:commit": "node scripts/import-property-sheet.js data/property-sheet.csv --commit",
+    "report:financials": "node scripts/financials-report.js",
+    "start": "node server.js",
+    "migrate": "node scripts/migrate.js",
+    "render:demo": "node scripts/render-demo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect-pg-simple": "^10.0.0",
+    "csv-parse": "^7.0.2",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "pg": "^8.23.0",
+    "sharp": "^0.35.4"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

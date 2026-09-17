@@ -1,0 +1,22 @@
+Sheet row,Site,Suggested name,Stage,Was (AutoStatus),PSAL,Landlord,Landlord type,Contacts,City,Province,Lease R/month,Tenure,Lease signed,Lease received,Install R (site-specific),Needs review
+3,Waterstone Durbanville,,complete,Live,Shaka,,company,,Durbanville,Western Cape,1000,12,,,,City taken from the site name (Durbanville)
+9,Milnerton Takealot,,proposal_sent,Proposal sent,Shaka,,company,,Cape Peninsula,Western Cape,,,,,,"Landlord was ""TBC"""
+13,Takealot Parow,,proposal_sent,Proposal sent,Shaka,,company,,Cape Peninsula,Western Cape,,,,,,"Landlord was ""Sale in Progress"""
+22,Canterbury Crossing,,site_captured,Not contacted,Shaka,Canterbury Crossing (landlord to confirm),company,Adriana Basterfield · +27769217774,Randburg,Gauteng,,,,,,"Landlord was ""TBC"" | Landlord unknown; contact placed under a ""landlord to confirm"" record"
+42,Willowbridge Mall,,site_captured,Not contacted,Shaka,Willowbridge Mall (landlord to confirm),company,Jenny Dove · citipods@gmail.com · +27794809252,Cape Town,Western Cape,,,,,,"Landlord was ""N/A"" | Landlord unknown; contact placed under a ""landlord to confirm"" record"
+44,Douglasdale Shopping Centre,,proposal_sent,Proposal sent,Shaka,Douglasdale Shopping Centre (landlord to confirm),company,Eddie Venter · e-venter@outlook.com · +27691676431,Fourways,Gauteng,,,,,,"Landlord was ""TBC"" | Landlord unknown; contact placed under a ""landlord to confirm"" record"
+52,Bramfischer Shopping Centre,,site_captured,Not contacted,Shaka,Bramfischer Shopping Centre (landlord to confirm),company,Matthew · matthew@netwater.co.za · +27783620624,Randburg,Gauteng,,,,,,"Landlord unknown; contact placed under a ""landlord to confirm"" record"
+54,Ultra Liquors Cresta,,site_captured,,Shaka,Capstone Properties,company,Natasha · natasha@capstoneprop.co.za · +27714422486,Randburg,Gauteng,,,,,,Status was blank; set to Site captured
+54,"16 Dartfield Road, Kramerville West",,site_captured,,Shaka,Capstone Properties,company,Natasha · natasha@capstoneprop.co.za · +27714422486,Sandton,Gauteng,,,,,,Status was blank; set to Site captured
+54,Voltex Randburg,,site_captured,,Shaka,Capstone Properties,company,Natasha · natasha@capstoneprop.co.za · +27714422486,Randburg,Gauteng,,,,,,Status was blank; set to Site captured
+69,Delta Central,,site_captured,Not contacted,Shaka,Cadastral Capital,company,Hugh · +27824425975,Randburg,Gauteng,,,,,,Email is TBC
+78,John Jacob,Blackboy (Wynberg),declined,Not accepted,Shaka,John Jacob (owner),independent_owner,John@blackboy.co.za · +27828098779,Wynberg,Gauteng,,,,,,"Site name is a person; suggested business name ""Blackboy (Wynberg)"""
+79,Mpendulo Ops Manager,,site_captured,Not contacted,Shaka,Mpendulo Ops Manager (owner),independent_owner,+27828378661,Wynberg,Gauteng,,,,,,Site name is a person; rename to the business | Email is TBC
+80,Thando,,proposal_sent,Proposal sent,Shaka,Thando (owner),independent_owner,+27631872727,Wynberg,Gauteng,,,,,,Site name is a person; rename to the business | Email is TBC
+81,Calvin Masia,,site_captured,Not contacted,Shaka,Calvin Masia (owner),independent_owner,+27835335333,Wynberg,Gauteng,,,,,,Site name is a person; rename to the business | Email is TBC
+82,Jean Dos Santos owner,Battery Corp Wynberg,proposal_sent,Proposal sent,Shaka,Jean Dos Santos (owner),independent_owner,Wynberg@batterycorp.co.za · +27836297331,Wynberg,Gauteng,,,,,,"Site name is a person; suggested business name ""Battery Corp Wynberg"""
+83,Malvin,Hilltop Motorsport,site_captured,Not contacted,Shaka,Malvin (owner),independent_owner,Hiltopmotorsport1@gmail.com · +27636430518,Randburg,Gauteng,,,,,,"Site name is a person; suggested business name ""Hilltop Motorsport"""
+84,Chad,Randburg Battery Centre,site_captured,Not contacted,Shaka,Chad (owner),independent_owner,Chad@randburgbatterycentre.co.za · +27824430962,Randburg,Gauteng,,,,,,"Site name is a person; suggested business name ""Randburg Battery Centre"""
+85,Gary,CD Auto,site_captured,Not contacted,Shaka,Gary (owner),independent_owner,Gary@cdauto.co.za · +27826936968,Randburg,Gauteng,,,,,,"Site name is a person; suggested business name ""CD Auto"""
+86,Rory,The Auto Agent,site_captured,Not contacted,Shaka,Rory (owner),independent_owner,rory@theautoagent.co.za · +27659560734,Randburg,Gauteng,,,,,,"Site name is a person; suggested business name ""The Auto Agent"""
+88,Midas Midrand,,lease_preparing,Lease in hand - not signed,Aziz,,company,,Midrand,Gauteng,1500,,,,,City taken from the site name (Midrand)

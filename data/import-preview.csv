@@ -1,0 +1,96 @@
+Sheet row,Site,Suggested name,Stage,Was (AutoStatus),PSAL,Landlord,Landlord type,Contacts,City,Province,Lease R/month,Tenure,Lease signed,Lease received,Install R (site-specific),Needs review
+3,Waterstone Durbanville,,complete,Live,Shaka,,company,,Durbanville,Western Cape,1000,12,,,,City taken from the site name (Durbanville)
+4,Galeria,,complete,Live,Shaka,Pen Prop,company,,Cape Peninsula,Western Cape,,,,,,
+5,Tygervalley Takealot,,complete,Live,Shaka,,company,,Bellville,Western Cape,,,,,,
+6,Tygervalley Center,,complete,Live,Shaka,Pareto,company,,Bellville,Western Cape,,,,,,
+7,Inospace - scoothero warehouse,,complete,Live,Shaka,,company,,Midrand,Gauteng,,,,,,
+8,Namibia Post Office,,complete,Live,Shaka,,company,,Namibia,Namibia,,,,,,
+9,Milnerton Takealot,,proposal_sent,Proposal sent,Shaka,,company,,Cape Peninsula,Western Cape,,,,,,"Landlord was ""TBC"""
+10,Blaauwberg Business Park,,proposal_sent,Proposal sent,Shaka,Highlands Trust,company,,Cape Peninsula,Western Cape,,,,,,
+11,Sandown Emporium,,proposal_sent,Proposal sent,Shaka,Taj investments,company,,Cape Peninsula,Western Cape,,,,,,
+12,Rivergate Takealot,,proposal_sent,Proposal sent,Shaka,Aska Property Group,company,,Cape Peninsula,Western Cape,,,,,,
+13,Takealot Parow,,proposal_sent,Proposal sent,Shaka,,company,,Cape Peninsula,Western Cape,,,,,,"Landlord was ""Sale in Progress"""
+14,Vet Office Plattekloof,,proposal_sent,Proposal sent,Shaka,,company,,Cape Peninsula,Western Cape,,,,,,
+15,Takealot Gardens,,proposal_sent,Proposal sent,Shaka,,company,,Pretoria,Gauteng,,,,,,
+16,Takealot Lynwood,,proposal_sent,Proposal sent,Shaka,,company,,Pretoria,Gauteng,,,,,,
+17,Takealot Menlyn Park,,proposal_sent,Proposal sent,Shaka,,company,,Pretoria,Gauteng,,,,,,
+18,Takealot Waterkloof,,proposal_sent,Proposal sent,Shaka,,company,,Pretoria,Gauteng,,,,,,
+19,Takealot Sunnyside,,proposal_sent,Proposal sent,Shaka,,company,,Pretoria,Gauteng,,,,,,
+20,Takealot Moreletta Park,,proposal_sent,Proposal sent,Shaka,,company,,Pretoria,Gauteng,,,,,,
+21,BP Winnie Mandela,,proposal_sent,Proposal sent,Shaka,BP Winnie Mandela (franchisee),franchise,Qhawe · +27711352004,Fourways,Gauteng,,,,,,
+22,Canterbury Crossing,,site_captured,Not contacted,Shaka,Canterbury Crossing (landlord to confirm),company,Adriana Basterfield · +27769217774,Randburg,Gauteng,,,,,,"Landlord was ""TBC"" | Landlord unknown; contact placed under a ""landlord to confirm"" record"
+23,Jewel City,,proposal_sent,Proposal sent,Shaka,Atterbury Property,company,Zama Ndlela · +27658826128,Johannesburg,Gauteng,,,,,,
+24,Club Retail Park,,proposal_sent,Proposal sent,Shaka,Atterbury Property,company,Humphries du Randt · +27769409976,Pretoria,Gauteng,,,,,,
+24,The Village Walk,,proposal_sent,Proposal sent,Shaka,Atterbury Property,company,Humphries du Randt · +27769409976,Pretoria,Gauteng,,,,,,
+24,Village,,proposal_sent,Proposal sent,Shaka,Atterbury Property,company,Humphries du Randt · +27769409976,Pretoria,Gauteng,,,,,,
+25,Newtown Junction,,proposal_sent,Proposal sent,Shaka,Atterbury Property,company,Obrey Makamu · +27781280738,Johannesburg,Gauteng,,,,,,
+26,Richmond Corner Retail,,proposal_sent,Proposal sent,Shaka,Atterbury Property,company,Sean Mc Bean · +27794598469,Cape Town,Western Cape,,,,,,
+26,Trumali House and Forum,,proposal_sent,Proposal sent,Shaka,Atterbury Property,company,Sean Mc Bean · +27794598469,Stellenbosch,Western Cape,,,,,,
+27,ABSA Towers,,proposal_sent,Proposal sent,Shaka,Atterbury Property,company,Alex Landman · +27798743525,Johannesburg,Gauteng,,,,,,
+28,Barlowpark,,proposal_sent,Proposal sent,Shaka,Atterbury Property,company,McCrystal Madau · +27814552372,Johannesburg,Gauteng,,,,,,
+29,Castle Gate Lifestyle,,proposal_sent,Proposal sent,Shaka,Atterbury Property,company,Jacobus du Toit · +27814859557,Pretoria,Gauteng,,,,,,
+29,Castle Gate Retail,,proposal_sent,Proposal sent,Shaka,Atterbury Property,company,Jacobus du Toit · +27814859557,Pretoria,Gauteng,,,,,,
+30,Talis House,,proposal_sent,Proposal sent,Shaka,Atterbury Property,company,Paul Kruger · +27828777878,Johannesburg,Gauteng,,,,,,
+30,Turbine Mall,,proposal_sent,Proposal sent,Shaka,Atterbury Property,company,Paul Kruger · +27828777878,Johannesburg,Gauteng,,,,,,
+31,Riverwalk,,proposal_sent,Proposal sent,Shaka,Atterbury Property,company,Jonathan Hobbs · +27835575141,Pretoria,Gauteng,,,,,,
+31,Sterland,,proposal_sent,Proposal sent,Shaka,Atterbury Property,company,Jonathan Hobbs · +27835575141,Pretoria,Gauteng,,,,,,
+32,Cresta Crossing,,proposal_sent,Proposal sent,Shaka,Dorpstraat,company,Tanya · +27829345354,Randburg,Gauteng,,,,,,
+33,Engen Lonehill,,proposal_sent,Proposal sent,Shaka,Engen Lonehill (owner),independent_owner,Mahesh · +27829704122,Sandton,Gauteng,,,,,,
+34,Homeworld Decor Centre,,site_captured,Not contacted,Shaka,Rennie Prop,company,Harries · +27833761696,Randburg,Gauteng,,,,,,
+35,Olivegrove Junction,,site_captured,Not contacted,Shaka,Olivegrove Junction (owner),independent_owner,Annie · annie@olivegrovejunction.co.za · +27714829452,Midrand,Gauteng,,,,,,
+36,Bayside Mall,,site_captured,Not contacted,Shaka,Growthpoint,company,aryklief@growthpoint.co.za,Table View,Western Cape,,,,,,
+37,Blue Hills Shopping Centre,,proposal_sent,Proposal sent,Shaka,HCI Prop,company,Brian Bellis · bbellis@broll.com · +27645169788,Midrand,Gauteng,,,,,,
+38,BP Maxwell drive,,proposal_sent,Proposal sent,Shaka,BP Maxwell drive (owner),independent_owner,Ahmat · bpmaxwelldrive@gmail.com · +27769757863,Midrand,Gauteng,,,,,,
+39,Gravity Office Park,,proposal_sent,Proposal sent,Shaka,Gravity Office Park (owner),independent_owner,Brett · brett@gravityoffice.co.za · +27849658355,Fourways,Gauteng,,,,,,
+40,Morningside Shopping Centre,,site_captured,Not contacted,Shaka,Flanagan & Gerard Property Group,company,Sharon Henry · centremanager@morningsideshops.co.za · +27822589222,Morningside,Gauteng,,,,,,
+41,Polofields Crossing,,proposal_sent,Proposal sent,Shaka,AWIC Waterfall TM JVCO (RF) Pty Ltd,company,Karen van Rooyen · centremanagement@polocrossing.co.za · +27823338835,Midrand,Gauteng,,,,,,
+42,Willowbridge Mall,,site_captured,Not contacted,Shaka,Willowbridge Mall (landlord to confirm),company,Jenny Dove · citipods@gmail.com · +27794809252,Cape Town,Western Cape,,,,,,"Landlord was ""N/A"" | Landlord unknown; contact placed under a ""landlord to confirm"" record"
+43,Riverside Junction,,proposal_sent,Proposal sent,Shaka,Rennie Knight Frank,company,Dedre Uys · dedre.uys@rennieknightfrank.co.za · +27661981620,Sandton,Gauteng,,,,,,
+44,Douglasdale Shopping Centre,,proposal_sent,Proposal sent,Shaka,Douglasdale Shopping Centre (landlord to confirm),company,Eddie Venter · e-venter@outlook.com · +27691676431,Fourways,Gauteng,,,,,,"Landlord was ""TBC"" | Landlord unknown; contact placed under a ""landlord to confirm"" record"
+45,MediMix Morningside,,proposal_sent,Proposal sent,Shaka,MediMix Morningside (owner),independent_owner,Jan · facilities@200rivonia.co.za · +27713433410,Morningside,Gauteng,,,,,,
+46,Mushroom Farm,,proposal_sent,Proposal sent,Shaka,Century Developments,company,Johan Kruger · gkruger@broll.com · +27828833713,Midrand,Gauteng,,,,,,
+47,Rivonia Village,,proposal_sent,Proposal sent,Shaka,Resilient REIT,company,Henri Gouws · gm@rivoniavillage.co.za · +27678610047,Sandton,Gauteng,,,,,,
+48,Kyalami On Main,,proposal_sent,Proposal sent,Shaka,Adam International Property Group,company,Jolene Meyer · jolene@adamint.co.za · +27833277499,Midrand,Gauteng,,,,,,
+49,Cresta Shopping Centre,,site_captured,Not contacted,Shaka,Pareto,company,Simangele · leasing@crestashoppingcentre.co.za · +27116785306,Randburg,Gauteng,,,,,,
+50,344 Rivonia Teazers Rivonia,,proposal_sent,Proposal sent,Shaka,344 Rivonia Teazers Rivonia (owner),independent_owner,Martin · maintenance@jagdem.com · +27829635471,Sandton,Gauteng,,,,,,
+51,Black Heath Shopping Centre,,proposal_sent,Proposal sent,Shaka,Sizanai General Trading,company,Mark · mark@plumarigroup.co.za · +27824503415,Randburg,Gauteng,,,,,,
+52,Bramfischer Shopping Centre,,site_captured,Not contacted,Shaka,Bramfischer Shopping Centre (landlord to confirm),company,Matthew · matthew@netwater.co.za · +27783620624,Randburg,Gauteng,,,,,,"Landlord unknown; contact placed under a ""landlord to confirm"" record"
+52,Sherwood Centre,,site_captured,Not contacted,Shaka,Netwater Properties,company,Matthew · matthew@netwater.co.za · +27783620624,Randburg,Gauteng,,,,,,
+53,"21 Oudekraal Noordwyk close, Midrand + 97 Republic Road Randburg",,lease_preparing,Lease in hand - not signed,Shaka,"21 Oudekraal Noordwyk close, Midrand + 97 Republic Road Randburg (owner)",independent_owner,Mbuso Mvubu · mbuso.mvubu@rawson.co.za · +27790309982,Midrand,Gauteng,2000,12,,,20000,
+54,Ultra Liquors Cresta,,site_captured,,Shaka,Capstone Properties,company,Natasha · natasha@capstoneprop.co.za · +27714422486,Randburg,Gauteng,,,,,,Status was blank; set to Site captured
+54,"16 Dartfield Road, Kramerville West",,site_captured,,Shaka,Capstone Properties,company,Natasha · natasha@capstoneprop.co.za · +27714422486,Sandton,Gauteng,,,,,,Status was blank; set to Site captured
+54,Voltex Randburg,,site_captured,,Shaka,Capstone Properties,company,Natasha · natasha@capstoneprop.co.za · +27714422486,Randburg,Gauteng,,,,,,Status was blank; set to Site captured
+55,Midway Mews,,lease_preparing,Lease in hand - not signed,Shaka,SACORP,company,Nobantu Thulare · nthulare@broll.com · +27837147322,Midrand,Gauteng,,,,2026-09-07,,
+56,Mall of Africa (Waterfall Precinct),,site_captured,Not contacted,Shaka,Attacq,company,Otlotleng · otlotleng@attacq.co.za · +27105961470 | Hendrick · hendrick@attacq.co.za,Midrand,Gauteng,,,,,,
+57,Morning Glen,,lease_preparing,Lease in hand - not signed,Shaka,SACORP,company,Penelope Matshine · pmatshine@sacorp.co.za · +27798795578,Morningside,Gauteng,2000,12,,,,
+58,Jackal Creek Corner,,proposal_sent,Proposal sent,Shaka,Abland,company,Portia Monaheng · portia.monaheng@valgro.co.za · +27736232303,North Riding,Gauteng,,,,,,
+59,Leaping Frog,,proposal_sent,Proposal sent,Shaka,Abland,company,Portia Monaheng · portia.monaheng@valgro.co.za · +27736232304,Fourways,Gauteng,,,,,,
+60,Waterfall Ridge,,proposal_sent,Proposal sent,Shaka,Abland,company,Portia Monaheng · portia.monaheng@valgro.co.za · +27736232305,Midrand,Gauteng,,,,,,
+61,Waterfall Corner,,proposal_sent,Proposal sent,Shaka,Attacq,company,Portia Monaheng · portia.monaheng@valgro.co.za · +27736232306,Midrand,Gauteng,,,,,,
+62,CrewCut Gardens,,proposal_sent,Proposal sent,Shaka,CrewCut Gardens (owner),independent_owner,Rickus Bouwer · rickus@tysonprop.co.za · +27825203737,Midrand,Gauteng,,,,,,
+63,Kyalami Corner Shopping Centre,,declined,Not accepted,Shaka,Redefine,company,Sisipho Giqwa · sisiphog@redefine.com · +27748189780,Midrand,Gauteng,,,,,,
+63,The Boulders Shopping Centre,,lease_preparing,Lease in hand - not signed,Aziz,Redefine,company,Sisipho Giqwa · sisiphog@redefine.com · +27748189780,Midrand,Gauteng,1500,,,,,
+64,Flora Town,,proposal_sent,Proposal sent,Shaka,Flora Town (sectional title),sectional_title,Sofie · sofie@floratown.co.za · +27764037292,Midrand,Gauteng,,,,,,
+65,Swiss Pro,,proposal_sent,Proposal sent,Shaka,Swiss Pro (owner),independent_owner,Paul · Admin@hiqwynberg.co.za · +27114407170,Wynberg,Gauteng,,,,,,
+66,Lameka Bike Garage,,lease_preparing,Lease in hand - not signed,Shaka,Lameka Bike Garage (owner),independent_owner,Mbuso Mvubu · mbuso.mvubu@rawson.co.za · +27790309982,Midrand,Gauteng,3500,,,,,
+67,Barlow Park,,proposal_sent,Proposal sent,Shaka,Ithemba Property Group,company,Percival Dumisa · Percival@ithembaproperty.co.za · +27679571686,Sandton,Gauteng,,,,,,
+68,Craighall Corner,,site_captured,Not contacted,Shaka,Craighall Corner (owner),independent_owner,Trevor · Trevor@gladfin.co.za · +27826567898,Randburg,Gauteng,,,,,,
+69,Delta Central,,site_captured,Not contacted,Shaka,Cadastral Capital,company,Hugh · +27824425975,Randburg,Gauteng,,,,,,Email is TBC
+70,Motorcycles for Africa,,proposal_sent,Proposal sent,Shaka,Motorcycles for Africa (owner),independent_owner,Warren · warren@motorcyclesforafrica.co.za · +27824335700,Randburg,Gauteng,,,,,,
+71,Blairgowrie Plaza,,site_captured,Not contacted,Shaka,BLAIRPROP CC,company,Pano · Pano@balfin.co.za · +27763198739,Randburg,Gauteng,,,,,,
+72,Power For U Building,,declined,Not accepted,Shaka,Credico,company,PC · pc@credicosa.com · +27113260744 | Mark · Mark@credicosa.com | Theuns · theuns@credicosa.com,Randburg,Gauteng,,,,,,
+73,Bosslandengineering,,site_captured,Not contacted,Shaka,Bosslandengineering,company,Frank · bossland.engineering@gmail.com · +27834236366,Randburg,Gauteng,,,,,,
+74,Storagewyze,,proposal_sent,Proposal sent,Shaka,Thinkcentric / tnfs,company,Selina · Hoot@storagewyze.co.za · +27763130820,Randburg,Gauteng,,,,,,
+75,Cambridge Crossing,,proposal_sent,Proposal sent,Shaka,SACORP,company,Donald · DmcLellan@broll.com · +27739891074,Sandton,Gauteng,,,,,,
+76,Coachmans Crossing,,proposal_sent,Proposal sent,Shaka,SACORP,company,Donald · DmcLellan@broll.com · +27739891075,Bryanston,Gauteng,,,,,,
+77,Pineslopes (The Bed Centre),,proposal_sent,Proposal sent,Shaka,SACORP,company,Donald · DmcLellan@broll.com · +27739891076,Fourways,Gauteng,2500,24,,,,
+78,John Jacob,Blackboy (Wynberg),declined,Not accepted,Shaka,John Jacob (owner),independent_owner,John@blackboy.co.za · +27828098779,Wynberg,Gauteng,,,,,,"Site name is a person; suggested business name ""Blackboy (Wynberg)"""
+79,Mpendulo Ops Manager,,site_captured,Not contacted,Shaka,Mpendulo Ops Manager (owner),independent_owner,+27828378661,Wynberg,Gauteng,,,,,,Site name is a person; rename to the business | Email is TBC
+80,Thando,,proposal_sent,Proposal sent,Shaka,Thando (owner),independent_owner,+27631872727,Wynberg,Gauteng,,,,,,Site name is a person; rename to the business | Email is TBC
+81,Calvin Masia,,site_captured,Not contacted,Shaka,Calvin Masia (owner),independent_owner,+27835335333,Wynberg,Gauteng,,,,,,Site name is a person; rename to the business | Email is TBC
+82,Jean Dos Santos owner,Battery Corp Wynberg,proposal_sent,Proposal sent,Shaka,Jean Dos Santos (owner),independent_owner,Wynberg@batterycorp.co.za · +27836297331,Wynberg,Gauteng,,,,,,"Site name is a person; suggested business name ""Battery Corp Wynberg"""
+83,Malvin,Hilltop Motorsport,site_captured,Not contacted,Shaka,Malvin (owner),independent_owner,Hiltopmotorsport1@gmail.com · +27636430518,Randburg,Gauteng,,,,,,"Site name is a person; suggested business name ""Hilltop Motorsport"""
+84,Chad,Randburg Battery Centre,site_captured,Not contacted,Shaka,Chad (owner),independent_owner,Chad@randburgbatterycentre.co.za · +27824430962,Randburg,Gauteng,,,,,,"Site name is a person; suggested business name ""Randburg Battery Centre"""
+85,Gary,CD Auto,site_captured,Not contacted,Shaka,Gary (owner),independent_owner,Gary@cdauto.co.za · +27826936968,Randburg,Gauteng,,,,,,"Site name is a person; suggested business name ""CD Auto"""
+86,Rory,The Auto Agent,site_captured,Not contacted,Shaka,Rory (owner),independent_owner,rory@theautoagent.co.za · +27659560734,Randburg,Gauteng,,,,,,"Site name is a person; suggested business name ""The Auto Agent"""
+88,Midas Midrand,,lease_preparing,Lease in hand - not signed,Aziz,,company,,Midrand,Gauteng,1500,,,,,City taken from the site name (Midrand)
